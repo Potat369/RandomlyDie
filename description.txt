@@ -1,1 +1,1 @@
-Modify this file with a description of your mod.
+You will randomly die, that's all. The odds to die are 1:480 every second, but you can configure them.

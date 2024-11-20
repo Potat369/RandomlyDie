@@ -1,0 +1,16 @@
+﻿[h2] Description [/h2]
+You will randomly die, that's all. The odds to die are 1:480 every second, but you can configure them.
+
+[h2] Report Issue [/h2]
+If you encounter any issues with the mod you can:
+[list]
+	[*] Write below in the comments.
+	[*] Open issue on [url=https://github.com/Potat369/RandomlyDie] Github [/url]
+[/list]
+
+[h2] Support [/h2]
+If you [b] willing [/b] to support me, you can:
+[list]
+	[*] Tell others about my mods
+	[*] Donate me on [url=https://ko-fi.com/potat369] Ko-fi [/url]. [b] It's completely optional. [/b]
+[/list]
