@@ -4,10 +4,11 @@ Configs: {
 
 		Chance: {
 			Label: Chance: 1 / x
-			Tooltip: '''
-		    Triggers once per second.
-			If you enter 5 then there is 0.20% chance to be killed.
-			'''
+			Tooltip:
+				'''
+				Triggers once per second.
+				If you enter 5 then there is 0.20% chance to be killed.
+				'''
 		}
 	}
 }
