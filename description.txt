@@ -1,1 +1,1 @@
-You will randomly die, that's all. The odds to die are 1:480 every second, but you can configure them.
+You will randomly die, that's all. The odds are 1:480 every second, but you can configure them.
