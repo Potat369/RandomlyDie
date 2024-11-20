@@ -1,2 +1,13 @@
-# This file will automatically update with entries for new content after a build and reload.
+Configs: {
+	RandomlyDieConfig: {
+		DisplayName: Randomly Die Config
 
+		Chance: {
+			Label: Chance: 1 / x
+			Tooltip: '''
+		    Triggers once per second.
+			If you enter 5 then there is 0.20% chance to be killed.
+			'''
+		}
+	}
+}
